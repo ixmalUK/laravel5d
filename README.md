@@ -13,7 +13,7 @@
 | **Nama** | Muhammad Ixmal Alimudin |
 | **NPM** | 2410010280 |
 | **Kelas** | TI 5D REG BJB |
-| **Repositori Fork** | [ixmal1990/laravel5d](https://github.com/ixmal1990/laravel5d) |
+| **Repositori Fork** | [ixmalUK/laravel5d](https://github.com/ixmalUK/laravel5d) |
 | **Upstream Repositori** | [mirzayogy/laravel5d](https://github.com/mirzayogy/laravel5d) |
 
 ---
@@ -60,7 +60,7 @@ Sistem ini memiliki **10 tabel database** yang saling terhubung:
 
 ## 📄 Dokumentasi Terkait
 
-- **Diagram ERD (Mermaid)**: [`docs/database/erd.md`](docs/database/erd.md)
+- **Entity Relationship Diagram (ERD)**: [`docs/database/erd.md`](docs/database/erd.md)
 - **Laporan Progres P01**: [`docs/progress/P01-database-design.md`](docs/progress/P01-database-design.md)
 - **Panduan Fork & Pull Request**: [`docs/FORK_GUIDE.md`](docs/FORK_GUIDE.md)
 
